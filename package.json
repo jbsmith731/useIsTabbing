@@ -48,5 +48,12 @@
     "react",
     "accessibility",
     "a11y"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbsmith731/useIsTabbing"
+  },
+  "bugs": {
+    "url": "https://github.com/jbsmith731/useIsTabbing/issues"
+  }
 }
