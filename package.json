@@ -27,7 +27,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "useistabbing",
+  "name": "use-is-tabbing",
   "author": "Brett Smith",
   "module": "dist/useistabbing.esm.js",
   "devDependencies": {
